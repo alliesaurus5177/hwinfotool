@@ -1,0 +1,5 @@
+## Ignore generated webpack files
+
+**/dist/
+
+**/node_modules/
