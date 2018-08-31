@@ -24,6 +24,9 @@
 <script>
 //TODO: Add ability to download .csv 
 
+//Trying this with axios because it has nice syntax 
+import axios from 'axios';
+
     var Papa = require('papaparse');
     export default {
         data () {
@@ -113,16 +116,19 @@
             }  
         },
         created() {
-          //This filepath will change
-          $.get('dist/assets/data/hwinfo.csv', (response) => {
-                this.data = Papa.parse(response, {
-                    header: true,
-                    skipEmptyLines: true
-                });
-                //TODO: error handling. What do when it doesn't find a file or  it's wrong type or something 
-                this.data = this.data.data; //needed to drill down twice, that was our whole issue 
-                console.log(this.data);
-            });         
+          axios.get('dist/assets/data/hwinfodata.csv')
+            .then(response => {
+              this.data = Papa.parse(response.data, {
+                header: true, 
+                skipEmptyLines: true,
+              })
+              this.data = this.data.data; //have to drill down twice to get to the actual data. 
+              //console.log(this.data);
+            })
+            .catch(e => {
+              //console.log(e);
+              alert(e);
+            })  
         }
     }
 </script>
