@@ -128,6 +128,7 @@ import axios from 'axios';
             .catch(e => {
               //console.log(e);
               alert(e);
+              //TODO: Make *nice* error pages for no results, file not found, any other errors? 
             })  
         }
     }
