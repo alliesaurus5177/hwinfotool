@@ -15,29 +15,15 @@
               foot-clone 
               :items="data" 
               :fields="fields">
-            </b-table>
-
-            <!-- manually built table
-            <table>
-              <thead>
-                <th v-for="title in fields">{{ title.label }}</th>
-              </thead>
-              <tbody>
-                <tr v-for="item in data">
-                  <td v-for="entry in item">
-                    {{ entry }}
-                  </td>
-                </tr>                
-              </tbody>
- 
-            </table>-->
-            
+            </b-table>      
 
         </b-container fluid>
     </main>
 </template>
 
 <script>
+//TODO: Add ability to download .csv 
+
     var Papa = require('papaparse');
     export default {
         data () {
@@ -127,13 +113,16 @@
             }  
         },
         created() {
-            $.get('dist/assets/data/hwinfo.csv', (response) => {
+          //This filepath will change
+          $.get('dist/assets/data/hwinfo.csv', (response) => {
                 this.data = Papa.parse(response, {
-                    header: true
+                    header: true,
+                    skipEmptyLines: true
                 });
+                //TODO: error handling. What do when it doesn't find a file or  it's wrong type or something 
                 this.data = this.data.data; //needed to drill down twice, that was our whole issue 
                 console.log(this.data);
-            });
+            });         
         }
     }
 </script>
