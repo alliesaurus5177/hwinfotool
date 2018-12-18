@@ -1,0 +1,236 @@
+Hostname,Operating System,Model,Serial Number,CPUs,CPU Cores,Total Threads,CPU Model,RAM (GB),Disk Size
+antcarilab081,Ubuntu 16.04.2 LTS,none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+antcarilab082,Microsoft Windows [Version 10.0.15063],"VMware, Inc. VMware Virtual Platform",VMware-56 4d 40 91 94 c9 cd 9e-46 c4 f5 34 8d 60 ea f8,2,1,,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3,119
+antcarilab083,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,2,,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+antcarilab084,Microsoft Windows [Version 6.2.9200],"VMware, Inc. VMware Virtual Platform",VMware-56 4d 49 17 a1 46 42 5b-b0 d0 00 45 b5 e9 fe 8d,2,1,,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3,119
+antcarilab085,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+antcarit02,Ubuntu 16.04.4 LTS,none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+anchpcskx1001,SUSE Linux Enterprise Server 12 SP3,none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,187.6 GB,none for now
+anfgavmlin05,Red Hat Enterprise Linux Server release 6.9 (Santiago),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+ansatlin06,Ubuntu 16.04.5 LTS,none for now,none for now,48,12,48,Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz,125.8 GB,none for now
+ansatlin07,Fedora release 25 (Twenty Five),none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,61.0 GB,none for now
+ansatlin04,Ubuntu 18.04.1 LTS,none for now,none for now,32,16,32,Intel(R) Xeon(R) CPU E5-2698 v3 @ 2.30GHz,62.8 GB,none for now
+ansatlin08,Fedora release 27 (Twenty Seven),none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,61.0 GB,none for now
+ansatlin09,Fedora release 27 (Twenty Seven),none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,61.0 GB,none for now
+antsatel04,Ubuntu 18.10,none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,125.8 GB,none for now
+fxe12lin03,Red Hat Enterprise Linux Server release 6.0 (Santiago),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU           X5680  @ 3.33GHz,23.5 GB,none for now
+d333-cfls,Ubuntu 16.04.5 LTS,none for now,none for now,12,6,12,Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz,31.3 GB,none for now
+fxtcarvm040,Fedora release 27 (Twenty Seven),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+fxilab148,Ubuntu 14.04 LTS,none for now,none for now,20,10,20,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,110.1 GB,none for now
+fxilab144,Red Hat Enterprise Linux Server release 7.4 (Maipo),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz,11.6 GB,none for now
+fxilab147,Ubuntu 14.04 LTS,none for now,none for now,12,6,12,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,23.5 GB,none for now
+fxe48dual01,Red Hat Enterprise Linux Server release 7.0 (Maipo),none for now,none for now,96,12,96,Intel(R) Xeon(R) CPU E7-4850 v2 @ 2.30GHz,125.6 GB,none for now
+anvosstoe,Ubuntu 16.04.5 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz,31.3 GB,none for now
+fxe12win18,Microsoft Windows [Version 10.0.14393],HP ProLiant DL160 Gen8,USE2257BYR,2,6,,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47,279
+fxtcarilab000,Microsoft Windows [Version 6.2.9200],HP ProLiant DL360p Gen8,MXQ424026W,2,8,,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,63,223
+fxe12win11,Microsoft Windows [Version 10.0.10240],HP ProLiant DL160 G6,USE203S255,2,6,,Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz,23,279
+fxe12win15,Microsoft Windows [Version 6.2.9200],HP ProLiant DL160 Gen8,USE2257C00,2,6,,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47,279
+fxe12win17,Microsoft Windows [Version 10.0.14393],HP ProLiant DL160 Gen8,USE2257BYV,2,6,,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47,279
+10.241.130.187,Ubuntu 16.04.2 LTS,none for now,none for now,4,2,4,Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz,7.6 GB,none for now
+anpfkbllin01,Ubuntu 16.04.3 LTS,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1270 v6 @ 3.80GHz,62.8 GB,none for now
+anlsatknl01,CentOS Linux release 7.3.1611 (Core),none for now,none for now,272,68,272,Intel(R) Xeon Phi(TM) CPU 7250 @ 1.40GHz,188.6 GB,none for now
+anlsatknl03,CentOS Linux release 7.3.1611 (Core),none for now,none for now,272,68,272,Intel(R) Xeon Phi(TM) CPU 7250 @ 1.40GHz,204.4 GB,none for now
+anlsatknl02,CentOS Linux release 7.3.1611 (Core),none for now,none for now,272,68,272,Intel(R) Xeon Phi(TM) CPU 7250 @ 1.40GHz,188.6 GB,none for now
+ansklnvram02,CentOS Linux release 7.5.1804 (Core),none for now,none for now,112,28,112,Intel(R) Xeon(R) Platinum 8180 CPU @ 2.50GHz,93.9 GB,none for now
+ansklnvram01,CentOS Linux release 7.5.1804 (Core),none for now,none for now,112,28,112,Intel(R) Xeon(R) Platinum 8180 CPU @ 2.50GHz,62.4 GB,none for now
+10.241.129.248,Ubuntu 18.10,none for now,none for now,4,2,4,Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz,7.8 GB,none for now
+fxe32lin04,Ubuntu 17.10,none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-4640 0 @ 2.40GHz,755.9 GB,none for now
+fxilab104,Microsoft Windows [Version 6.2.9200],HP ProLiant DL360p Gen8,MXQ3510B20,2,8,,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,63,279
+fxilab105,Fedora release 27 (Twenty Seven),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,62.9 GB,none for now
+fxilab106,CentOS release 6.10 (Final),none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+fxilab107,,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz,7.7 GB,none for now
+fxilab101,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,4,4,4,Intel(R) Core(TM) i5-4670T CPU @ 2.30GHz,7.6 GB,none for now
+fxilab102,Microsoft Windows [Version 6.2.9200],Intel Corporation S2600GZ,............,2,10,,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,31,465
+fxilab103,Microsoft Windows [Version 6.2.9200],HP ProLiant DL320e Gen8 v2,USE351NEKR,1,,,,15,558
+fxilab109,,none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,62.9 GB,none for now
+fxsatlin01,Ubuntu 16.04 LTS,none for now,none for now,16,8,16,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,125.8 GB,none for now
+fxsatlin03,Ubuntu 14.04.4 LTS,none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,125.8 GB,none for now
+d309-glk,Ubuntu 16.10,none for now,none for now,4,4,4,Intel(R) Pentium(R) Silver J5005 CPU @ 1.50GHz,3.7 GB,none for now
+antcarmgr01,Microsoft Windows [Version 10.0.14393],"VMware, Inc. VMware Virtual Platform",VMware-56 4d 06 8e ef 58 f3 69-95 0d 65 c6 f1 05 98 01,2,1,,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3,79
+d260-apl,Ubuntu 16.04.3 LTS,none for now,none for now,4,4,4,Intel(R) Pentium(R) CPU N4200 @ 1.10GHz,3.7 GB,none for now
+fxilab171,CentOS Linux release 7.5.1804 (Core),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47.0 GB,none for now
+d305-glk,Ubuntu 18.04.1 LTS,none for now,none for now,4,4,4,Intel(R) Pentium(R) Silver J5005 CPU @ 1.50GHz,3.7 GB,none for now
+fxe16win08,Microsoft Windows [Version 6.2.9200],HP ProLiant DL360p Gen8,MXQ3510B1Z,2,8,,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,63,279
+fxhsw288lin01,Red Hat Enterprise Linux Server release 6.6 (Santiago),none for now,none for now,576,18,576,Intel(R) Xeon(R) CPU E7-8880 v3 @ 2.30GHz,977.8 GB,none for now
+d361-ac,Ubuntu 16.04.5 LTS,none for now,none for now,24,24,24,Genuine Intel(R) CPU 0000%@,22.2 GB,none for now
+d343-iclu,Ubuntu 18.04.1 LTS,none for now,none for now,4,4,4,Genuine Intel(R) CPU 0000 @ 1.20GHz,15.4 GB,none for now
+fxsdp001,Microsoft Windows [Version 6.2.9200],Intel Corporation S2600WTT,............,2,14,,Intel(R) Xeon(R) CPU E5-2697 v3 @ 2.60GHz,31,931
+fxsdp006,Ubuntu 16.04.1 LTS,none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,125.8 GB,none for now
+fxsdp005,Red Hat Enterprise Linux Server release 7.3 (Maipo),none for now,none for now,64,16,64,Intel(R) Xeon(R) CPU E5-2698 v3 @ 2.30GHz,31.2 GB,none for now
+ancodskx1020,Ubuntu 16.04.4 LTS,none for now,none for now,28,14,28,Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz,188.6 GB,none for now
+d338-hc2,Ubuntu 16.04.3 LTS,none for now,none for now,48,24,48,Intel(R) Xeon(R) Platinum 8160 CPU @ 2.10GHz,45.8 GB,none for now
+d319-kbl,Microsoft Windows [Version 10.0.15063],ECHO is on. ECHO is on.,ECHO is on.,1,,,,31,953
+antcarrevbd01,SUSE Linux Enterprise Server 12 SP2,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,7.8 GB,none for now
+ansatlin14,Fedora release 28 (Twenty Eight),none for now,none for now,48,12,48,Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz,62.8 GB,none for now
+ansatlin11,Fedora release 27 (Twenty Seven),none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,61.0 GB,none for now
+ansatlin10,Fedora release 27 (Twenty Seven),none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,61.0 GB,none for now
+ansatlin13,CentOS Linux release 7.3.1611 (Core),none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,251.5 GB,none for now
+ansatlin12,CentOS Linux release 7.3.1611 (Core),none for now,none for now,44,22,44,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,251.5 GB,none for now
+anbbbdw09,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,56,14,56,Intel(R) Xeon(R) CPU E5-2660 v4 @ 2.00GHz,62.8 GB,none for now
+anbbbdw08,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,56,14,56,Intel(R) Xeon(R) CPU E5-2660 v4 @ 2.00GHz,62.8 GB,none for now
+anbbbdw07,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,31.3 GB,none for now
+anbbbdw06,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,31.3 GB,none for now
+anbbbdw05,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,31.3 GB,none for now
+anbbbdw04,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,31.3 GB,none for now
+fxskllin03,SUSE Linux Enterprise Server 12 SP1,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz,7.6 GB,none for now
+fxskllin02,Ubuntu 16.04.1 LTS,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz,7.6 GB,none for now
+fxskllin01,CentOS Linux release 7.4.1708 (Core),none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz,7.6 GB,none for now
+fxskllin06,SUSE Linux Enterprise Server 12 SP1,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz,7.6 GB,none for now
+fxskllin05,Ubuntu 16.04 LTS,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz,62.8 GB,none for now
+fxskllin04,SUSE Linux Enterprise Server 12 SP1,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz,7.6 GB,none for now
+d320-kbl,Ubuntu 17.10,none for now,none for now,4,2,4,Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz,31.3 GB,none for now
+anclck02,CentOS release 6.9 (Final),none for now,none for now,32,16,32,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,15.6 GB,none for now
+d337-kbltoe,Ubuntu 16.04.5 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,15.5 GB,none for now
+d326-hc2,Ubuntu 16.04.5 LTS,none for now,none for now,55,28,55,Intel(R) Xeon(R) Platinum 8176 CPU @ 2.10GHz,45.8 GB,none for now
+fxknllin19,,none for now,none for now,256,64,256,Intel(R) Xeon Phi(TM) CPU 7210 @ 1.30GHz,46.9 GB,none for now
+fxknllin18,,none for now,none for now,256,64,256,Intel(R) Xeon Phi(TM) CPU 7210 @000000 1.30GHz,46.9 GB,none for now
+fxatom002,Microsoft Windows [Version 10.0.14393],Supermicro SYS-5018A-TN4,S14557714103812,1,,,,15,232
+fxe16lin05,SUSE Linux Enterprise Server 11 (x86_64),none for now,none for now,32,8,32,Genuine Intel(R) CPU  @ 2.60GHz,63.0 GB,none for now
+fxatom003,CentOS Linux release 7.4.1708 (Core),none for now,none for now,8,8,8,Intel(R) Atom(TM) CPU  C2750  @ 2.40GHz,15.5 GB,none for now
+fxe16lin07,Red Hat Enterprise Linux Server release 6.4 (Santiago),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,62.9 GB,none for now
+fxe16lin06,CentOS Linux release 7.4.1708 (Core),none for now,none for now,32,8,32,Genuine Intel(R) CPU  @ 3.10GHz,31.2 GB,none for now
+fxatom004,Ubuntu 14.04 LTS,none for now,none for now,8,8,8,Intel(R) Atom(TM) CPU  C2750  @ 2.40GHz,15.7 GB,none for now
+anfgaskx1011,Microsoft Windows [Version 10.0.14393],Intel Corporation S2600BPB,............,2,18,,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,31,447
+anfgaskx1013,CentOS Linux release 7.4.1708 (Core),none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,30.9 GB,none for now
+fxe16lin08,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,32,8,32,Genuine Intel(R) CPU  @ 2.60GHz,62.8 GB,none for now
+d275-kblu,Ubuntu 16.04.3 LTS,none for now,none for now,8,4,8,Genuine Intel(R) CPU 0000 @ 1.70GHz,7.7 GB,none for now
+fxe16lin03,Red Hat Enterprise Linux Server release 6.2 (Santiago),none for now,none for now,32,8,32,Genuine Intel(R) CPU  @ 2.60GHz,62.9 GB,none for now
+fxtcarilab011,Ubuntu 16.04.2 LTS,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,61.2 GB,none for now
+fxtcarilab012,Ubuntu 16.04.2 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,61.2 GB,none for now
+fxtcarilab014,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,62.9 GB,none for now
+fxtcarilab015,Microsoft Windows [Version 10.0.14393],HP ProLiant DL360p Gen8,MXQ3510B1X,2,8,,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,63,558
+fxtcarilab016,Ubuntu 14.04.5 LTS,none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,62.9 GB,none for now
+fxtcarilab017,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,62.9 GB,none for now
+fxtcarilab018,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,62.9 GB,none for now
+fxtcarilab019,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,4,2,4,Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz,7.6 GB,none for now
+antcargen001,Red Hat Enterprise Linux Server release 7.2 (Maipo),none for now,none for now,12,6,12,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47.0 GB,none for now
+fxe36lin01,Ubuntu 16.04.4 LTS,none for now,none for now,72,18,72,Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz,62.8 GB,none for now
+antcargen002,SUSE Linux Enterprise Server 12,none for now,none for now,12,6,12,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47.2 GB,none for now
+anfgaskx1014,CentOS Linux release 7.4.1708 (Core),none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,30.9 GB,none for now
+anfgabdwlin02,Ubuntu 18.04.1 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,15.5 GB,none for now
+anfgabdwlin03,Ubuntu 16.04.3 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,15.5 GB,none for now
+fxepcvmh001,Ubuntu 16.04.5 LTS,none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz,11.7 GB,none for now
+antcarilab073,CentOS Linux release 7.4.1708 (Core),none for now,none for now,10,5,10,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,31.3 GB,none for now
+anfgakbllin01,Debian GNU/Linux 9.4 (stretch),none for now,none for now,8,4,8,Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,31.3 GB,none for now
+antcarilab079,Red Hat Enterprise Linux Server release 6.9 (Santiago),none for now,none for now,10,5,10,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,15.6 GB,none for now
+rosebud,openSUSE 13.2 (Harlequin) (x86_64),none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,16.2 GB,none for now
+anfgaskllin02,Ubuntu 16.04.4 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6770HQ CPU @ 2.60GHz,31.3 GB,none for now
+anfgaskllin01,Ubuntu 16.04.5 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6770HQ CPU @ 2.60GHz,31.3 GB,none for now
+asramiretest01,CentOS Linux release 7.4.1708 (Core),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,7.5 GB,none for now
+fxamdlin01,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,4,2,4,"AMD A10 PRO-7850B R7, 12 Compute Cores 4C+8G",14.6 GB,none for now
+antcarilab090,CentOS Linux release 7.4.1708 (Core),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+10.241.130.146,Ubuntu 14.04 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,15.6 GB,none for now
+fxilab162,Ubuntu 14.04.5 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,15.6 GB,none for now
+fxilab160,Ubuntu 14.04 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,15.6 GB,none for now
+fxilab161,Ubuntu 14.04 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,15.6 GB,none for now
+fxilab164,Ubuntu 14.04 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+anstcarchn,Ubuntu 18.10,none for now,none for now,4,2,4,Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz,7.8 GB,none for now
+anclck01,CentOS release 6.9 (Final),none for now,none for now,32,16,32,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,15.6 GB,none for now
+d326-hc1,Ubuntu 16.04.5 LTS,none for now,none for now,56,28,56,Intel(R) Xeon(R) Platinum 8176 CPU @ 2.10GHz,45.8 GB,none for now
+antcargen003,Microsoft Windows [Version 6.3.9600],HP ProLiant DL320e Gen8 v2,USE351NEKN,1,,,,15,558
+d224-bdw-tp,Microsoft Windows [Version 6.3.9600],LENOVO 20DQ001MUS,MP08BRRJ,1,,,,7,238
+fxtcarilab021,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47.1 GB,none for now
+fxtcarilab020,Fedora release 27 (Twenty Seven),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz,23.5 GB,none for now
+fxtcarilab022,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,23.5 GB,none for now
+antcarbbcfg01,CentOS Linux release 7.2.1511 (Core),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+antceclx1022,CentOS Linux release 7.4.1708 (Core),none for now,none for now,96,24,96,Genuine Intel(R) CPU 0000%@,30.9 GB,none for now
+antcarilab080,CentOS Linux release 7.4.1708 (Core),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+fxilab149,Ubuntu 14.04 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz,15.6 GB,none for now
+fxe12lin21,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,15.4 GB,none for now
+fxe12lin20,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,15.4 GB,none for now
+fxsarathna2,Ubuntu 16.04.5 LTS,none for now,none for now,16,8,16,Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,47.0 GB,none for now
+d336-kbltoe,,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,15.5 GB,none for now
+anltcarmon01,,none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+angpcknl04,,none for now,none for now,256,64,256,Intel(R) Genuine Intel(R) CPU 0000 @ 1.30GHz,110.0 GB,none for now
+angpcknl02,CentOS Linux release 7.3.1611 (Core),none for now,none for now,256,64,256,Intel(R) Genuine Intel(R) CPU 0000 @ 1.30GHz,110.0 GB,none for now
+angpcknl03,,none for now,none for now,272,68,272,Intel(R) Xeon Phi(TM) CPU 7250 @ 1.40GHz,110.0 GB,none for now
+angpcknl01,CentOS Linux release 7.3.1611 (Core),none for now,none for now,256,64,256,Intel(R) Genuine Intel(R) CPU 0000 @ 1.30GHz,110.0 GB,none for now
+ansatskl1004,CentOS Linux release 7.3.1611 (Core),none for now,none for now,36,18,36,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,251.4 GB,none for now
+anpfsklfpga01,Ubuntu 16.04.5 LTS,none for now,none for now,96,24,96,Genuine Intel(R) CPU 0000%@,62.6 GB,none for now
+d282-kblu,Ubuntu 17.10,none for now,none for now,8,4,8,Genuine Intel(R) CPU 0000 @ 1.70GHz,7.7 GB,none for now
+fxknllin21,,none for now,none for now,256,64,256,Intel(R) Genuine Intel(R) CPU 0000 @ 1.30GHz,102.0 GB,none for now
+fxknllin23,,none for now,none for now,256,64,256,Intel(R) Xeon Phi(TM) CPU 7210 @ 1.30GHz,109.9 GB,none for now
+fxilab124,Red Hat Enterprise Linux Server release 7.0 (Maipo),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47.0 GB,none for now
+antcarilab078,Microsoft Windows [Version 10.0.14393],"VMware, Inc. VMware Virtual Platform",VMware-56 4d b3 11 f8 5d 19 f3-7c b8 0a 86 ce 01 0f d7,2,1,,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3,199
+anpfkbl01,Ubuntu 16.04.2 LTS,none for now,none for now,4,2,4,Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz,15.6 GB,none for now
+antsatel05,Ubuntu 18.10,none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,125.8 GB,none for now
+antsatel06,Ubuntu 18.10,none for now,none for now,88,22,88,Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz,125.8 GB,none for now
+antsatel01,Ubuntu 18.04.1 LTS,none for now,none for now,48,12,48,Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz,94.3 GB,none for now
+antsatel02,Ubuntu 18.04.1 LTS,none for now,none for now,6,6,6,Intel(R) Xeon(R) CPU E5-2609 v3 @ 1.90GHz,62.8 GB,none for now
+antsatel03,Ubuntu 16.04.2 LTS,none for now,none for now,6,6,6,Intel(R) Xeon(R) CPU E5-2609 v3 @ 1.90GHz,62.8 GB,none for now
+fxsatwin02,Microsoft Windows [Version 6.3.9600],HP ProLiant DL360 Gen9,MXQ53902ML,2,8,,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,127,5029
+fxsatwin01,Microsoft Windows [Version 6.3.9600],HP ProLiant DL360 Gen9,USE513MBWA,2,8,,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,127,5029
+fxhsw16lin003,Fedora release 25 (Twenty Five),none for now,none for now,16,8,16,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+fxhsw16lin002,SUSE Linux Enterprise Server 12,none for now,none for now,16,8,16,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.4 GB,none for now
+fxhsw16lin001,Ubuntu 18.04.1 LTS,none for now,none for now,16,8,16,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+10.241.131.164,Ubuntu 16.04.3 LTS,none for now,none for now,48,24,48,Intel(R) Xeon(R) Platinum 8160 CPU @ 2.10GHz,45.8 GB,none for now
+fxcoral001,CentOS Linux release 7.1.1503 (Core),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+fxcoral003,CentOS Linux release 7.1.1503 (Core),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+fxcoral002,CentOS Linux release 7.1.1503 (Core),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+fxcoral004,CentOS Linux release 7.1.1503 (Core),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+anfgaskxlin1003,SUSE Linux Enterprise Server 12 SP2,none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,93.1 GB,none for now
+fxpowerdev002,Ubuntu 16.04.3 LTS,none for now,none for now,8,4,8,Intel(R) Xeon(R) CPU           E5440  @ 2.83GHz,15.7 GB,none for now
+ansatnuc01,CentOS Linux release 7.4.1708 (Core),none for now,none for now,4,2,4,Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz,31.2 GB,none for now
+anompskxlin1002,SUSE Linux Enterprise Server 12 SP2,none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,93.1 GB,none for now
+antcekbl01,Ubuntu 16.04.4 LTS,none for now,none for now,4,4,4,Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz,15.6 GB,none for now
+ane2lin01,Ubuntu 14.04.5 LTS,none for now,none for now,16,8,16,Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,62.8 GB,none for now
+anfgabb01,CentOS Linux release 7.3.1611 (Core),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,7.6 GB,none for now
+fxe12lin18,Red Hat Enterprise Linux Server release 6.3 (Santiago),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,23.4 GB,none for now
+fxe12lin19,Fedora release 28 (Twenty Eight),none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47.1 GB,none for now
+ansatnuc02,CentOS Linux release 7.4.1708 (Core),none for now,none for now,4,2,4,Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz,31.2 GB,none for now
+antcarilab088,Red Hat Enterprise Linux Server release 6.9 (Santiago),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+antcarilab084,Microsoft Windows [Version 6.2.9200],"VMware, Inc. VMware Virtual Platform",VMware-56 4d 49 17 a1 46 42 5b-b0 d0 00 45 b5 e9 fe 8d,2,1,,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3,119
+antcarilab085,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+antcarilab082,Microsoft Windows [Version 10.0.15063],"VMware, Inc. VMware Virtual Platform",VMware-56 4d 40 91 94 c9 cd 9e-46 c4 f5 34 8d 60 ea f8,2,1,,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3,119
+antcarilab083,Red Hat Enterprise Linux Server release 5.11 (Tikanga),none for now,none for now,2,,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+antcarilab081,Ubuntu 16.04.2 LTS,none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+fxtcarvm054,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,32,16,32,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,31.4 GB,none for now
+antcarcfengine01,CentOS Linux release 7.4.1708 (Core),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+fxilab156,Ubuntu 18.04.1 LTS,none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+fxilab155,Microsoft Windows [Version 6.3.9600],HP ProLiant DL360 Gen9,MXQ44801G7,2,8,,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31,838
+fxilab154,SUSE Linux Enterprise Server 12 SP3,none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.3 GB,none for now
+fxilab153,Red Hat Enterprise Linux Server release 7.0 (Maipo),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,31.1 GB,none for now
+fxilab152,Ubuntu 16.04 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz,15.6 GB,none for now
+fxilab151,Ubuntu 16.04 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz,15.6 GB,none for now
+fxilab150,Ubuntu 14.04 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz,15.6 GB,none for now
+anfgavmlin03,,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+anfgavmlin02,Fedora release 27 (Twenty Seven),none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+anfgavmlin01,,none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.8 GB,none for now
+anfgavmlin06,Red Hat Enterprise Linux Server release 7.4 (Maipo),none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+fxilab159,Ubuntu 14.04.5 LTS,none for now,none for now,24,6,24,Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,47.1 GB,none for now
+antceskllin02,CentOS Linux release 7.4.1708 (Core),none for now,none for now,96,24,96,Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz,62.4 GB,none for now
+fxknl64lin07,CentOS Linux release 7.4.1708 (Core),none for now,none for now,256,64,256,Intel(R) Xeon Phi(TM) CPU 7210 @000000 1.30GHz,94.1 GB,none for now
+fxknl64lin08,CentOS Linux release 7.4.1708 (Core),none for now,none for now,256,64,256,Intel(R) Xeon Phi(TM) CPU 7210 @000000 1.30GHz,94.1 GB,none for now
+fxknl64lin09,,none for now,none for now,256,64,256,Intel(R) Xeon Phi(TM) CPU 7210 @000000 1.30GHz,109.9 GB,none for now
+fxtcarilab038,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,62.8 GB,none for now
+fxtcarilab036,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,62.8 GB,none for now
+fxtcarilab037,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,62.8 GB,none for now
+d266-apl,Ubuntu 16.04.3 LTS,none for now,none for now,4,4,4,Intel(R) Pentium(R) CPU N4200 @ 1.10GHz,3.7 GB,none for now
+aneo-jchheda02,Ubuntu 18.04.1 LTS,none for now,none for now,4,4,4,Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz,7.7 GB,none for now
+anbb01,,none for now,none for now,2,1,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.7 GB,none for now
+anphmskl2,Ubuntu 16.04.3 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,31.3 GB,none for now
+anompbdwlin01,Red Hat Enterprise Linux Server release 7.4 (Maipo),none for now,none for now,32,8,32,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,31.1 GB,none for now
+anompbdwlin02,SUSE Linux Enterprise Server 12 SP3,none for now,none for now,16,8,16,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,31.3 GB,none for now
+anompbdwlin03,Red Hat Enterprise Linux Server release 7.2 (Maipo),none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,15.4 GB,none for now
+anompbdwlin04,SUSE Linux Enterprise Server 12 SP3,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,15.5 GB,none for now
+anompbdwlin05,Ubuntu 16.04 LTS,none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,15.5 GB,none for now
+anompbdwlin06,Fedora release 28 (Twenty Eight),none for now,none for now,8,8,8,Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,15.5 GB,none for now
+anompbdwlin07,CentOS Linux release 7.4.1708 (Core),none for now,none for now,192,24,192,Intel(R) Xeon(R) CPU E7-8890 v4 @ 2.20GHz,251.6 GB,none for now
+fxtcarvm053,Red Hat Enterprise Linux Server release 6.5 (Santiago),none for now,none for now,32,16,32,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,31.4 GB,none for now
+ansatlin16,Ubuntu 18.04.1 LTS,none for now,none for now,20,10,20,Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz,62.6 GB,none for now
+d331-cfls,Ubuntu 16.04.5 LTS,none for now,none for now,12,6,12,Intel(R) Xeon(R) E-2176G CPU @ 3.70GHz,31.4 GB,none for now
+fxilab113,Red Hat Enterprise Linux Server release 7.3 (Maipo),none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.4 GB,none for now
+fxilab112,Ubuntu 14.04.5 LTS,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+fxilab111,Ubuntu 14.04 LTS,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+fxilab110,Ubuntu 14.04 LTS,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+fxilab117,Ubuntu 14.04 LTS,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+fxilab116,Ubuntu 14.04.5 LTS,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+fxilab115,Ubuntu 14.04 LTS,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+fxilab114,Ubuntu 14.04 LTS,none for now,none for now,4,4,4,Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,15.5 GB,none for now
+anompskx1019,CentOS Linux release 7.4.1708 (Core),none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,62.4 GB,none for now
+anompskx1018,Red Hat Enterprise Linux Server release 7.4 (Maipo),none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,62.4 GB,none for now
+anompskx1017,SUSE Linux Enterprise Server 12 SP3,none for now,none for now,72,18,72,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,62.6 GB,none for now
+anompskx1016,Ubuntu 16.04.3 LTS,none for now,none for now,36,18,36,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,62.6 GB,none for now
+anompskx1015,SUSE Linux Enterprise Server 12 SP3,none for now,none for now,144,18,144,Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,503.3 GB,none for now
+anvbsdp001,SUSE Linux Enterprise Server 11 (x86_64),none for now,none for now,2,,2,Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,3.9 GB,none for now
+anpowerdev003,Ubuntu 16.04.3 LTS,none for now,none for now,8,4,8,Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,31.2 GB,none for now
