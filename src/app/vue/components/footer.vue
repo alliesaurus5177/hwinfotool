@@ -2,7 +2,7 @@
     <footer>
         <b-container fluid>
             <h2>Issues with this tool?</h2>
-            <p>Contact <a href="mailto:allie.s.ramirez@intel.com">allie.s.ramirez@intel.com</a></p>	
+            <p>Contact <a href="mailto:tcar.cat.us@intel.com">TCAR CAT team</a></p>	
         </b-container fluid>
     </footer>
 </template>
